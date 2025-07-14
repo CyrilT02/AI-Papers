@@ -66,10 +66,4 @@ Military AI requires safeguards against uncontrolled emergence
 
 ---
 
-## 📚 Recommended Citation
-```bibtex
-@article{touboulic_anthropologie_ia,
-author  = {Touboulic, Cyril},
-title   = {Towards an anthropology of artificial intelligence},
-year    = {2025},
-url     = {https://github.com/[your_username]/anthropologie-IA}
+url     = {https://github.com/[CyrilT02]/anthropologie-IA}
