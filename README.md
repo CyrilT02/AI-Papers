@@ -66,4 +66,4 @@ Military AI requires safeguards against uncontrolled emergence
 
 ---
 
-url     = {https://github.com/[CyrilT02]/anthropologie-IA}
+url     = {https://github.com/[CyrilT02]/AI-Papers}
