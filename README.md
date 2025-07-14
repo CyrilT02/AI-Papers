@@ -65,5 +65,3 @@ Military AI requires safeguards against uncontrolled emergence
 - **Ethno-simulation**: Study of cultural emergence in hybrid human/AI societies
 
 ---
-
-url     = {https://github.com/CyrilT02/AI-Papers}
